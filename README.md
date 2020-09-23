@@ -1,6 +1,7 @@
 # Landing-LOGOTYPE
 This is the project for LOGOTYPE.
 HTML5 CSS3 JS JQuerry semantic BEM 
+Link of deployment https://danil4905.github.io/Landing-LOGOTYPE/
 
 # Desktop version
 ![image](https://github.com/danil4905/Landing-LOGOTYPE/blob/master/Screens/Decktop_header.png)
